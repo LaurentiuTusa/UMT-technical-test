@@ -1,0 +1,3 @@
+D:/Lau/Teste/UMT/cmake-build-debug/CMakeFiles/UMT.dir
+D:/Lau/Teste/UMT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lau/Teste/UMT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
